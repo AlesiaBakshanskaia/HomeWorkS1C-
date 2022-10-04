@@ -20,7 +20,7 @@ else {
 
 //Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
-Console.WriteLine("Введите первое число");
+/*Console.WriteLine("Введите первое число");
 int num1 = int.Parse(Console.ReadLine()!);
 
 Console.WriteLine("Введите второе число");
@@ -38,4 +38,17 @@ if (num3 > num2){
     max = num3;
 }
 
-Console.WriteLine($"Максимальное число {max}");
+Console.WriteLine($"Максимальное число {max}");*/
+
+
+//Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+Console.WriteLine("Введите  число");
+int num = int.Parse(Console.ReadLine()!);
+
+if (num % 2 == 0){
+    Console.WriteLine($"Число {num} четное");
+}
+else {
+   Console.WriteLine($"Число {num} не четное"); 
+}

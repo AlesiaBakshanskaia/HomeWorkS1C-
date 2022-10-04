@@ -1,0 +1,15 @@
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\bin\Debug\net6.0\HW1C#.exe
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\bin\Debug\net6.0\HW1C#.deps.json
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\bin\Debug\net6.0\HW1C#.runtimeconfig.json
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\bin\Debug\net6.0\HW1C#.dll
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\bin\Debug\net6.0\HW1C#.pdb
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.csproj.AssemblyReference.cache
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.AssemblyInfoInputs.cache
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.AssemblyInfo.cs
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.csproj.CoreCompileInputs.cache
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.dll
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\refint\HW1C#.dll
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.pdb
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\HW1C#.genruntimeconfig.cache
+D:\Загрузки\Geekbrains\HomeWork1C#\HW1C#\obj\Debug\net6.0\ref\HW1C#.dll
